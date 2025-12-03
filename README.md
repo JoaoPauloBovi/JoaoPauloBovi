@@ -1,4 +1,5 @@
- Olá! Eu sou João Paulo Bovi
+ Olá! Eu sou João Paulo Bovi! 
+
  Sou Universitário de Análise e Desenvolvimento de Sistemas e estudo JAVA.
 
  <div stryle="display: inline_block"><br>
