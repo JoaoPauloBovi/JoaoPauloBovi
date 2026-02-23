@@ -1,6 +1,6 @@
  Olá! Eu sou João Paulo Bovi! 
 
- Sou Universitário de Análise e Desenvolvimento de Sistemas e estudo JAVA.
+ Advogado (OAB/RJ) em transição para a tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas e aprofundando conhecimentos em desenvolvimento de software com Java e C++
 
  <div stryle="display: inline_block"><br>
 <img align="center" alt=jp-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  <img align="center" alt=jp-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
