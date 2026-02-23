@@ -3,7 +3,9 @@
  Sou Universitário de Análise e Desenvolvimento de Sistemas e estudo JAVA.
 
  <div stryle="display: inline_block"><br>
-<img align="center" alt=jp-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="center" alt=jp-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  <img align="center" alt=jp-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+
+          
 
  ##
  
