@@ -1,4 +1,4 @@
-## Olá! Eu sou João Paulo Bovi! 
+## Olá, eu sou João Paulo Bovi! 
 
  Advogado em transição para a tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas.
 
